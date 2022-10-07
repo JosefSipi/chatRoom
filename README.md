@@ -6,7 +6,7 @@ This is the Arrive Logistics - TSO (Technology Special Projects)
 #
 navigate to desired location in your terminal
 
-### `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+### `$ git clone https://github.com/JosefSipi/chatRoom.git`
 navigate to root directory if not already there
 ### `npm install`
 
